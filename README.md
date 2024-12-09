@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malgorzataBednarczuk&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malgorzataBednarczuk&show_icons=true&theme=radical)
 
 <!--
 **malgorzataBednarczuk/malgorzataBednarczuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
